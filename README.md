@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=ardaesevindik&color=2c3e50&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
-> ### Geology Engineering Student at Hacettepe University
+> ### Geological Engineering Student at Hacettepe University
 > 
 > Integrating Earth Sciences with Management Information Systems. Currently building a solid foundation in GIS, SQL, and Python to understand and process spatial data.
 
