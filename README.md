@@ -1,4 +1,8 @@
-## Arda Ertuğ Sevindik
+## <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=26&pause=1000&color=2ecc71&center=true&vCenter=true&width=600&height=80&lines=Arda+Ertu%C4%9F+Sevindik" alt="Arda Ertuğ Sevindik" />
+
+</div>
 
 <p align="center">
   <a href="https://ardaesevindik.com.tr" target="_blank">
