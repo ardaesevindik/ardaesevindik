@@ -2,12 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Slabo+27px&weight=600&size=32&pause=1000&color=1DD4D4&center=true&vCenter=true&width=600&height=60&lines=Arda+Ertu%C4%9F+Sevindik" alt="Arda Ertuğ Sevindik" />
 
-<!-- Jeoloji / GIS Temalı Hareketli Görüntü (Sleek Wireframe Globe) -->
-<img src="https://media3.giphy.com/media/3o7TKrEzvLbsVAud8I/giphy.gif" width="130" alt="Earth GIS Animation" />
-
-<br><br>
-
-<!-- Referanstaki Gibi Geniş ve Bloklu Sosyal Medya Butonları -->
 <p align="center">
   <a href="https://ardaesevindik.com.tr" target="_blank">
     <img src="https://img.shields.io/badge/WEBSITE-2C3E50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
@@ -18,7 +12,7 @@
   <a href="https://linkedin.com/in/arda-ertuğ-sevindik-62ab6538b" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-2980B9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ardaesevindik&color=1DD4D4&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ardaesevindik&color=157F60&style=for-the-badge&label=VIEWS" alt="Profile Views" />
 </p>
 
 <blockquote>
@@ -30,18 +24,17 @@
 
 <br>
 
-<!-- REFERANS 3'TEKİ GİBİ SİMETRİK PANELLER (Eğitim ve Deneyim) -->
 <table align="center" width="100%" style="border: 1px solid transparent;">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🎓 Education</h3>
       <hr>
-      <!-- Logolar PNG olarak güncellendi (Kesin çalışır) -->
-      <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Hacettepe_%C3%9Cniversitesi_Logosu.svg/200px-Hacettepe_%C3%9Cniversitesi_Logosu.svg.png" width="35" align="left" style="margin-right: 10px;">
+      <!-- Logolar proxy üzerinden çekiliyor, GitHub engeline takılmaz -->
+      <img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/tr/b/b5/Hacettepe_%C3%9Cniversitesi_Logosu.svg&output=png" width="35" align="left" style="margin-right: 10px;">
       <b>Hacettepe University</b><br>
       Geological Engineering
       <br><br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Istanbul_University_Logo.svg/200px-Istanbul_University_Logo.svg.png" width="35" align="left" style="margin-right: 10px;">
+      <img src="https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/commons/2/23/Istanbul_University_Logo.svg&output=png" width="35" align="left" style="margin-right: 10px;">
       <b>Istanbul University</b><br>
       Management Information Systems
     </td>
@@ -49,7 +42,7 @@
       <h3 align="center">🏛️ Experience & Community</h3>
       <hr>
       <ul>
-        <li><b>Geotechnical Intern:</b> Professional placement at <b>Sistem Jeoteknik</b>.</li>
+        <li><b>Geotechnical Intern:</b> Active professional placement at <b>Sistem Jeoteknik</b>.</li>
         <li><b>Unit Head:</b> Social Media & Digital Strategy for Hacettepe <b>Earth Sciences Society (YBT)</b>.</li>
         <li><b>Project Developer:</b> Building <b>Deprem 101</b>, a platform for scientific earthquake workflows.</li>
       </ul>
@@ -69,9 +62,8 @@
 
 <br><br>
 
-<!-- REFERANS 1'DEKİ GİBİ BÜYÜK TIKLANABİLİR KARTLAR (Freelance Bölümü) -->
 <h3 align="center">💼 Freelance & Consulting</h3>
-<p align="center"><i>Available for spatial data processing, technical consulting, and collaborative projects.</i></p>
+<p align="center"><i>Available for foundational spatial data processing, entry-level GIS mapping (ArcGIS/QGIS), and technical collaborations bridging earth sciences and data management.</i></p>
 
 <table align="center" width="100%">
   <tr>
