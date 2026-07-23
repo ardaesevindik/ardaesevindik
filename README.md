@@ -29,12 +29,12 @@
     <td width="50%" valign="top">
       <h3 align="center">🎓 Education</h3>
       <hr>
-      <!-- Doğrudan Wikipedia PNG linkleri, sorunsuz çalışır -->
-      <img src="https://upload.wikimedia.org/wikipedia/tr/thumb/b/b5/Hacettepe_%C3%9Cniversitesi_Logosu.svg/150px-Hacettepe_%C3%9Cniversitesi_Logosu.svg.png" width="38" align="left" style="margin-right: 10px;">
+      <!-- Logoları doğrudan repondan çekecek şekilde ayarlandı -->
+      <img src="hacettepe.png" width="38" align="left" style="margin-right: 10px;">
       <b>Hacettepe University</b><br>
       Geological Engineering
       <br><br><br>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Istanbul_University_Logo.svg/150px-Istanbul_University_Logo.svg.png" width="38" align="left" style="margin-right: 10px;">
+      <img src="istanbul.png" width="38" align="left" style="margin-right: 10px;">
       <b>Istanbul University</b><br>
       Management Information Systems
     </td>
@@ -44,7 +44,7 @@
       <p>
         <img src="https://api.iconify.design/mdi:circle.svg?color=%231DD4D4" width="12" align="center"> &nbsp; <b>Geotechnical Intern:</b> Active professional placement at <b>Sistem Jeoteknik</b>.<br><br>
         <img src="https://api.iconify.design/mdi:circle.svg?color=%23157F60" width="12" align="center"> &nbsp; <b>Unit Head:</b> Social Media & Digital Strategy for Hacettepe <b>Earth Sciences Society (YBT)</b>.<br><br>
-        <img src="https://api.iconify.design/mdi:circle.svg?color=%23D35400" width="12" align="center"> &nbsp; <b>Project Developer:</b> Building <b>Deprem 101</b>, a platform for scientific earthquake workflows.
+        <img src="https://api.iconify.design/mdi:circle.svg?color=%23D35400" width="12" align="center"> &nbsp; <b>Project Developer:</b> Building <b>Deprem 101</b>, a platform for scientific earthquake workflows.<br><br>
       </p>
     </td>
   </tr>
