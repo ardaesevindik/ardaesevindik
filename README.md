@@ -17,34 +17,63 @@
 
 <br>
 
-Welcome to my digital workspace! 🌍✨ 
-I am on a mission to bridge the gap between **Earth Sciences** and **Data Technologies**. 
-From analyzing spatial data and running SQL queries to mapping the physical world, I love building technical solutions to understand our planet better. 🚀
+<!-- UNIVERSITY SECTION -->
+<table align="center" style="border: none; background-color: transparent;">
+  <tr align="center">
+    <td width="300" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/tr/b/b5/Hacettepe_%C3%9Cniversitesi_Logosu.svg" width="65" alt="Hacettepe University"><br><br>
+      <b>Hacettepe University</b><br>
+      Geological Engineering
+    </td>
+    <td width="300" style="border: none;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Istanbul_University_Logo.svg" width="65" alt="Istanbul University"><br><br>
+      <b>Istanbul University</b><br>
+      Management Information Systems
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-### 🌍 About Me
-- 🎓 **Dual Degree Student:** Studying **Geological Engineering** at Hacettepe University & **Management Information Systems (MIS)** at Istanbul University.
-- 🌱 **Currently Building a Foundation In:** GIS (ArcGIS, QGIS), Spatial Data Analytics, SQL databases, and Python.
-- 💼 **Professional Experience:** Geotechnical Summer Intern at **Sistem Jeoteknik**.
-- 🤝 **Community & Leadership:** Social Media Unit Head at Hacettepe University **Earth Sciences Society (YBT)**.
-- 🔍 **Featured Project:** Currently developing **Deprem 101**, an educational platform sharing scientific earthquake workflows.
+### 📍 Professional Summary
+Undergraduate student building a hybrid technical foundation at the intersection of Earth Sciences and Data Technologies. Focused on integrating geotechnical principles with modern spatial data frameworks, relational databases, and programming to process and analyze real-world spatial data efficiently.
 
-### 🛠️ Tech & Tools I'm Learning
+---
+
+### 💼 Freelance & Consulting
+*Available for technical consulting, spatial data processing, and project collaborations.*
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="LINKİ_BURAYA_YAPIŞTIR" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+  <a href="LINKİ_BURAYA_YAPIŞTIR" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
+  </a>
 </p>
 
-<br>
+---
 
-### 📊 GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardaesevindik&show_icons=true&theme=transparent&hide_border=true&title_color=1DD4D4&icon_color=1DD4D4&text_color=777777" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardaesevindik&layout=compact&theme=transparent&hide_border=true&title_color=1DD4D4&text_color=777777" height="150" alt="Top Languages" />
-</div>
+### ⚙️ Domain Expertise & Projects
+
+<!-- DUAL-COLUMN CV LAYOUT -->
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h4>Experience & Leadership</h4>
+      <ul>
+        <li><b>Geotechnical Intern:</b> Active professional placement at <b>Sistem Jeoteknik</b>.</li>
+        <li><b>Unit Head:</b> Managing digital presence and social media strategies for the Hacettepe University <b>Earth Sciences Society (YBT)</b>.</li>
+        <li><b>Project Developer:</b> Building <b>Deprem 101</b>, a specialized platform designed to share scientific earthquake workflows and educational resources.</li>
+      </ul>
+    </td>
+    <td width="35%" valign="top">
+      <h4>Technical Stack</h4>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" /> <br><br>
+      <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
+      <img src="https://img.shields.io/badge/ArcGIS-0079C1?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS" />
+    </td>
+  </tr>
+</table>
